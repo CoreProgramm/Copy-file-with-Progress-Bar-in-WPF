@@ -1,0 +1,29 @@
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\bin\Debug\WPF-CopyFileWithProgressBar.exe.config
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\bin\Debug\WPF-CopyFileWithProgressBar.exe
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\bin\Debug\WPF-CopyFileWithProgressBar.pdb
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar.csprojAssemblyReference.cache
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\MainWindow.g.cs
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\App.g.cs
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar_MarkupCompile.cache
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar_MarkupCompile.lref
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\MainWindow.baml
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar.g.resources
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF_CopyFileWithProgressBar.Properties.Resources.resources
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar.csproj.GenerateResource.cache
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar.csproj.CoreCompileInputs.cache
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar.exe
+D:\Practice\WPF\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar.pdb
+D:\JT\CoreProgramm\Blog\WPF\WPF Copy File\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\bin\Debug\WPF-CopyFileWithProgressBar.exe.config
+D:\JT\CoreProgramm\Blog\WPF\WPF Copy File\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\bin\Debug\WPF-CopyFileWithProgressBar.exe
+D:\JT\CoreProgramm\Blog\WPF\WPF Copy File\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\bin\Debug\WPF-CopyFileWithProgressBar.pdb
+D:\JT\CoreProgramm\Blog\WPF\WPF Copy File\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar.csprojAssemblyReference.cache
+D:\JT\CoreProgramm\Blog\WPF\WPF Copy File\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\MainWindow.g.cs
+D:\JT\CoreProgramm\Blog\WPF\WPF Copy File\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\App.g.cs
+D:\JT\CoreProgramm\Blog\WPF\WPF Copy File\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar_MarkupCompile.cache
+D:\JT\CoreProgramm\Blog\WPF\WPF Copy File\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar_MarkupCompile.lref
+D:\JT\CoreProgramm\Blog\WPF\WPF Copy File\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\MainWindow.baml
+D:\JT\CoreProgramm\Blog\WPF\WPF Copy File\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar.g.resources
+D:\JT\CoreProgramm\Blog\WPF\WPF Copy File\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF_CopyFileWithProgressBar.Properties.Resources.resources
+D:\JT\CoreProgramm\Blog\WPF\WPF Copy File\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar.csproj.GenerateResource.cache
+D:\JT\CoreProgramm\Blog\WPF\WPF Copy File\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar.exe
+D:\JT\CoreProgramm\Blog\WPF\WPF Copy File\WPF-CopyFileWithProgressBar\WPF-CopyFileWithProgressBar\obj\Debug\WPF-CopyFileWithProgressBar.pdb
